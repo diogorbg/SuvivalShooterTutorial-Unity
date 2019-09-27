@@ -6,4 +6,4 @@ O projeto original, vídeos e demais informações podem ser encontrados no link
 https://unity3d.com/pt/learn/tutorials/s/survival-shooter-tutorial
 
 A intenção deste projeto é aproveitar os assets para testar novas técnicas e variar um pouco mais os recursos implementados.
-No momento estou usando a versão 2018.04f1
+No momento estou usando a versão 2018.4.0f1
